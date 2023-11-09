@@ -5,7 +5,7 @@ const fullName = "Steve Mwanzia"
 const theme = {
 
     backgroundColor: "purple",
-    color: "pink",
+    color: "white",
     borderRadius: "10px",
     padding: "5px",
     margin: "10px"
